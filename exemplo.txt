@@ -4,3 +4,7 @@ alteração no GitHub
 alteração na linha 4
 nova alteração
 alteração feita local, tlvez de ruim
+
+
+alteração
+versão 1.2

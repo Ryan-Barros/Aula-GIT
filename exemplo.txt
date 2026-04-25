@@ -1,4 +1,4 @@
 ...
-uma nova linha
+uma nova linha alteração na linha 2
 alteração no GitHub
 alteração na linha 4

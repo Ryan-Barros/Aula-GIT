@@ -8,3 +8,4 @@ alteração feita local, tlvez de ruim
 
 alteração
 versão 1.2
+alteração no github
